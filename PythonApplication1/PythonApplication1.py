@@ -1,1 +1,1 @@
-
+print("Kursach ne sdelan")
